@@ -6,10 +6,9 @@ I'm a passionate developer and tech enthusiast who loves building creative and i
 
 ## What I Do
 
-- *Web Development* – Frontend & Backend
-- *Mobile Apps* – UI/UX focused Android apps
+- *Web Development* – Frontend 
 - *AI & Automation* – Chatbots, smart tools, and more
-- *Open Source* – I contribute and maintain projects when I can
+
 
 ## Tools & Tech
 
