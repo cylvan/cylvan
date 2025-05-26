@@ -1,4 +1,4 @@
-cylvan/cyl# Hi there, I'm Cylvan!  
+cylvan/# Hi there, I'm Cylvan!  
 
 Welcome to my GitHub profile!
 
@@ -25,14 +25,9 @@ I'm a passionate developer and tech enthusiast who loves building creative and i
 
 ## Let's Connect
 
-- *Email*: your.email@example.com  
-- *LinkedIn*: [linkedin.com/in/yourprofile](#)  
-- *Twitter*: [@yourhandle](#)
+- *Email*: jamesnjenga618@gmail.com  
 
 Thanks for visiting!
 
----
+--
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory Housevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
